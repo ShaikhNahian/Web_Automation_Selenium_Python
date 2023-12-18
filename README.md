@@ -21,7 +21,7 @@
 
 <p>3. After creating the project add these dependencies: Selenium, html-testRunner, webdriver-manager</p>
 
-<p>4. Run the project form terminal</p>
+<p>4. Run the project from terminal</p>
 
   
   
