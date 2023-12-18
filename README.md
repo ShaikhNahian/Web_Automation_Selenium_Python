@@ -3,9 +3,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="Web_Automation_Selenium_Python/Screenshots/Project_Structure.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="./Screenshots/Project_Structure.PNG" alt="project-screenshot" width="400" height="400/">
 
-<img src="Web_Automation_Selenium_Python/Screenshots/project2.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="./Screenshots/project2.PNG" alt="project-screenshot" width="400" height="400/">
 
 <h2> Features</h2>
 
