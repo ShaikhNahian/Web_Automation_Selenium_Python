@@ -1,7 +1,11 @@
 <h1 id="title" align="center">Web Automation: SELENIUM+PYTHON</h1>
-<p id="description">This is a simple web automation project in Selenium and Python. Tested the Login Page and Dashboard. Report is saved in Reports folder. </p>
+<p id="description">This is a simple web automation project in Selenium and Python. Tested the Login Page and Dashboard. The reports are saved in the Reports folder. </p>
 
+<h2>Project Screenshots:</h2>
 
+<img src="Web_Automation_Selenium_Python/Screenshots/Project_Structure.PNG" alt="project-screenshot" width="400" height="400/">
+
+<img src="Web_Automation_Selenium_Python/Screenshots/project2.PNG" alt="project-screenshot" width="400" height="400/">
 
 <h2> Features</h2>
 
