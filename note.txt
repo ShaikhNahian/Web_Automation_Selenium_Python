@@ -1,0 +1,5 @@
+--If the parent directory isn't in the python path, the login.py won't run--
+A quick fix is to Set the PYTHONPATH for the current session by running the following command, replacing the path with the absolute path to your project directory
+which in my case I did it with this command-
+"set PYTHONPATH=E:\Projects\Selenium\SeleniumPython\Web_Automation_POM_UnitTest_HTMLReports\pythonProject1"
+then simply run the command "python login.py" from the Tests folder, and the test will run
